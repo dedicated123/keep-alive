@@ -3,7 +3,7 @@ import time
 import sys
 
 # The URL to keep alive
-URL = "https://threecolref-server.onrender.com/ping"
+URL = "https://ummm-1x7x.onrender.com/ping"
 # Stay below Render's 15-minute timeout
 INTERVAL_SECONDS = 600 
 
